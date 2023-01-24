@@ -1,2 +1,2 @@
-# small-project
-just small 
+# 궁금해서 만들어본 여러가지 프로젝트들
+
